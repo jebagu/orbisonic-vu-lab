@@ -2,6 +2,16 @@
 
 Standalone browser lab for designing high-channel VU meter layouts for Orbisonic workflows. This folder is the project root; the app does not depend on another Orbisonic checkout.
 
+## Web App
+
+GitHub Pages builds and deploys the app from `main`.
+
+Expected URL:
+
+```text
+https://jebagu.github.io/orbisonic-vu-lab/
+```
+
 ## Run
 
 ```sh
